@@ -28,4 +28,4 @@ A Face Recognition based Attendance System that automatically detects and recogn
 
 ## Screenshots
 
-![Face Recognition System](screenshots/camera_output.png)
+![Face Recognition System](Screenshot_2026.png)
