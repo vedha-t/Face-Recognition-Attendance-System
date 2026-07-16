@@ -25,3 +25,7 @@ A Face Recognition based Attendance System that automatically detects and recogn
 ## How to Run
 
 1. Install required libraries:
+
+## Screenshots
+
+![Face Recognition System](screenshots/camera_output.png)
